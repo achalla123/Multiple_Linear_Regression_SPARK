@@ -9,5 +9,5 @@ Following are the files description:<br/>
 1. linreg.py		-	Python file<br/>
 2. Advertising.output	-	Output file generated using above command<br/>
 3. yxlin.output		-	Output file generated using above command<br/>
-4. Input files
+4. Input files<br/>
 <b>Note:</b> Precision of the output is set at line 31 in linreg.py file<br/>
